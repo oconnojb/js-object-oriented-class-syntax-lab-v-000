@@ -9,7 +9,7 @@ class BoardMember {
     return "No, I must disagree";
   }
 
-  approce() {
+  approve() {
     return "You can do that!";
   }
 
